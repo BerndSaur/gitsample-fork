@@ -41,6 +41,7 @@ public class Calculator {
 	    // auch noch ein Kommentar von Ruth
 		// Ein Kommentar
 		// noch einer 
+	    // BerndSaur
 		new Equals();
 		new Minus();
 		new Plus();
