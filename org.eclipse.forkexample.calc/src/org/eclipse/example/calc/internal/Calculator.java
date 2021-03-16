@@ -39,6 +39,8 @@ public class Calculator {
 	    // Das ist der erste Kommentar in masterGithub
 	    // Das ist der zweite Kommentar in master
 	    // auch noch ein Kommentar von Ruth
+		// Ein Kommentar
+		// noch einer 
 	    // BerndSaur
 		new Equals();
 		new Minus();
